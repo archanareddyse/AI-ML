@@ -1,0 +1,21 @@
+From d1c7a5c2a73ffe2993e544c0ee6080529ab1cc9c Mon Sep 17 00:00:00 2001
+From: archanase <archanareddycse@gmail.com>
+Date: Mon, 20 Jul 2026 13:36:45 +0530
+Subject: [PATCH] creating the patch
+
+---
+ test-patch | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/test-patch b/test-patch
+index 923f9a3..4493114 100644
+--- a/test-patch
++++ b/test-patch
+@@ -1 +1,4 @@
+ without patch work
++###################
++Appling patch O
++
+-- 
+2.41.0.windows.1
+
